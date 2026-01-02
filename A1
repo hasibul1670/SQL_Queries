@@ -1,0 +1,2 @@
+SELECT * from "ProductCategories"
+WHERE "ProductCategoryId" = 'PC-000002';
